@@ -1,0 +1,15 @@
+Data file name,weekly_data.csv,
+Contact name,Mandy Velthuis,
+Contact email,m.velthuis@nioo.knaw.nl,
+,,
+Citation,"Velthuis, M., L. N. de Senerpont Domis, T. Frenken, S. Stephan, G. Kazanjian, R. Aben, S. Hilt, S. Kosten, E. van Donk, and D. B. Van de Waal. 2017. Warming advances top-down control and reduces producer biomass in a freshwater plankton community. Ecosphere 8:e01651-n/a.",
+,,
+Variables,Unit,Description
+date,dd-mm-yyyy,Date on which the samples were taken from the mesocosms
+limnotron,-,Unique identifier of a mesocosm
+treatment,-,Coded variable (warm/control) describing the temperature treatment level of the mesocosm.
+CN220,ratio (unitless),The mol:mol C:N ratio of the seston <220 µm
+CP220,ratio (unitless),The mol:mol C:P ratio of the seston <220 µm
+NP220,ratio (unitless),The mol:mol N:P ratio of the seston <220 µm
+I50,µmol/m2/s,Light avialability at 50 cm depth
+pCO2,µM,Concentration of dissolved CO2

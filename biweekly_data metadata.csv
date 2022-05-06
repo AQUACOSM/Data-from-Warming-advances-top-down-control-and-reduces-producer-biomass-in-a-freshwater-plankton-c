@@ -1,0 +1,24 @@
+Data file name,biweekly_data.csv,
+Contact name,Mandy Velthuis,
+Contact email,m.velthuis@nioo.knaw.nl,
+,,
+Citation,"Velthuis, M., L. N. de Senerpont Domis, T. Frenken, S. Stephan, G. Kazanjian, R. Aben, S. Hilt, S. Kosten, E. van Donk, and D. B. Van de Waal. 2017. Warming advances top-down control and reduces producer biomass in a freshwater plankton community. Ecosphere 8:e01651",
+,,
+Variables,Unit,Description
+limnotron,-,Unique identifier of a mesocosm
+treatment,-,Coded variable (warm/cold) describing the temperature treatment level of the mesocosm.
+timepoint,-,Chronological number assigned to the sampling dates
+date,dd-mm-yyyy,Date on which the samples were taken from the mesocosms
+DIN,µmol/L,"Dissolved nitrogen concentration, which is the sum of NO3, NO2 and NH4 concentrations"
+DIP,µmol/L,"Dissolved phosphorus concentration, measured as PO4"
+NO3NH4,ratio (unitless),The ratio of dissolved NO3 and NH4
+chla fluoresence,µg/L,Sestonic chlorophyll-a concentration determined by phyto-PAM measurements
+conversion,-,"A conversion term for calculating chlorophyll-a concentrations from chlorophyll-a fluorescence, determined from linear correlation between ethanol extractions and phyto-PAM measurements"
+chla,µg/L,"Sestonic chlorophyll-a concentrations, calculated from chlorophyll-a fluorescence"
+eu02,cells/ml,"Cell density of eukaryotic phytoplankton of cell size class 0-2 µm, determined by flow cytometry"
+eu230,cells/ml,"Cell density of eukaryotic phytoplankton of cell size class 2-30 µm, determined by flow cytometry"
+eu3085,cells/ml,"Cell density of eukaryotic phytoplankton of cell size class 30-85 µm, determined by flow cytometry"
+pro02,cells/ml,"Cell density of prokaryotic phytoplankton of cell size class 0-2 µm, determined by flow cytometry"
+pro230,cells/ml,"Cell density of prokaryotic phytoplankton of cell size class 2-30 µm, determined by flow cytometry"
+pro3085,cells/ml,"Cell density of prokaryotic phytoplankton of cell size class 30-85 µm, determined by flow cytometry"
+chytrids,%,"Chytrid prevalence, expressed as percentage infected planktonic Synedra cells (determined by microscopy)"

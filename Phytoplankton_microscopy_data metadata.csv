@@ -1,0 +1,69 @@
+Data file name,Phytoplankton_microscopy_data.csv,
+Contact name,Mandy Velthuis,
+Contact email,m.velthuis@nioo.knaw.nl,
+,,
+Citation,"Velthuis, M., L. N. de Senerpont Domis, T. Frenken, S. Stephan, G. Kazanjian, R. Aben, S. Hilt, S. Kosten, E. van Donk, and D. B. Van de Waal. 2017. Warming advances top-down control and reduces producer biomass in a freshwater plankton community. Ecosphere 8:e01651",
+,,
+Variables,Unit,Description
+timepoint,-,Chronological number assigned to the sampling dates
+date,dd-mm-yyyy,Date on which the samples were taken from the mesocosms
+treatment,-,Coded variable (warm/control) describing the temperature treatment level of the mesocosm.
+limnotron,-,Unique identifier of a mesocosm
+total,-,Total number of individual cells counted in that sample
+FOV,-,Number of fields of view counted
+diatoms,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+cyanobacteria,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+chlorophytes,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+euglenophytes,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+Chrysophytes,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+dinophyta,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+cryptophytes,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+other flagellates,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+charophytes,phytoplankton group,Number of individuals observed for that specific group. Equals the sum of the respective phytoplankton genera
+Achnanthes,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Navicula,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+pennate diatom,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Synedra,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+centric diatom,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Gomphonema,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+pseudanabaena,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+worochinia colony,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+anabaena,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+cf synechocystif,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+cyanobacteria sp. (s. cell),phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+chroococcus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+phormidium cf,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Acutodesmus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Ankistrodesmus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Botryococcus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Chlamydomonas,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Chlorella cf,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Chlorella cf spore,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Chlorophyte sp.,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Closterium,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Coelastrum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Cosmarium,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Crucigenia cf fenestrata,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Desmodesmus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Dictyosphaerium,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Euastrum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Gloeocystis cf,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Kirchneriella,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Monoraphidium,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Oocystis cf,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Pediastrum boryanum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Pediastrum tetras,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Scenedesmus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Sphaerocystis,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Staurastrum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Tetraedon regulare,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Tetraedon minimum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Ulotrichales,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Phacus,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Trachelomonas,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Dinobryon cf cyclindricum,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Chromulina cf ,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Peridinium,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Cryptomonas cf ,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+flagellate <5 um,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
+Mougeotia/zygnema cf,phytoplankton genus,Number of individuals observed for that specific phytoplankton genus.
